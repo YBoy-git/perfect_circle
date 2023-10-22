@@ -22,3 +22,4 @@ After you run the script with appopriate arguments, you should move to your brow
 - There is no standard way of canceling the process, so when the script starts drawing circles, the only way is aborting the process (close the terminal or Ctrl + C)
 - The script is very slow due to limitations of used library (PyAutoGUI)
 - I haven't tested this program on Windows, only Linux (Fedora 38 w/ KDE Plasma + X11 & Wayland), so maybe it doesn't work on this Windows at all :)
+- If you have dual (or more) monitors, you should either stretch the browser over the entire area or temporarly disconnect a monitor
